@@ -28,5 +28,5 @@ A curated list of Veeam Technical Resources
 * [Official Kasten Account](https://twitter.com/kastenhq)
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
 * [PM VBR Anton Gostev](https://twitter.com/gostev)
-* [PM AWS](https://twitter.com/nielsengelen)
+* [PM AWS Niels Engelen](https://twitter.com/nielsengelen)
 
