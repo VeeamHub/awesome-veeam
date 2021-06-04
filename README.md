@@ -9,6 +9,7 @@ A curated list of Veeam Technical Resources
 * [Office365 Calculator](https://calculator.veeam.com/vbo)
 * [Community Forums](https://forums.veeam.com/)
 * [Community Site](https://community.veeam.com/)
+* [Support](https://my.veeam.com/#/open-case)
 
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
