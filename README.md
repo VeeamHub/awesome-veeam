@@ -8,6 +8,7 @@ A curated list of Veeam Technical Resources
 * [Kasten Documentation](https://docs.kasten.io/latest/)
 * [Office365 Calculator](https://calculator.veeam.com/vbo)
 * [Community Forums](https://forums.veeam.com/)
+* [Community Site](https://community.veeam.com/)
 
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
