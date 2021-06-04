@@ -10,6 +10,7 @@ A curated list of Veeam Technical Resources
 * [Community Forums](https://forums.veeam.com/)
 * [Community Site](https://community.veeam.com/)
 * [Support](https://my.veeam.com/#/open-case)
+* [KB Articles](https://www.veeam.com/knowledge-base.html)
 
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
