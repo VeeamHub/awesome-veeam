@@ -15,6 +15,7 @@ A curated list of Veeam Technical Resources
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
 * [Veeam VSE Calculator](https://vse.veeambp.com/)
+* [Veeam Cloud Connect Book](https://vccbook.io/)
 
 ## Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories)
