@@ -16,6 +16,7 @@ A curated list of Veeam Technical Resources
 
 ## Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories)
+* [vSnowApp (ServiceNow Integration)](https://veeambp.com/vsnow.html)
 * [Repo Manager](https://github.com/tdewin/veeamhubrepo)
 
 ## Blogs
