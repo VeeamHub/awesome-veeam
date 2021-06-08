@@ -25,6 +25,7 @@ A curated list of Veeam Technical Resources
 ## Blogs
 * [Veeam Vanguard Markus Kraus](https://mycloudrevolution.com/en/)
 * [Veeam Vanguard / MVP Didier Van Hoye](https://blog.workinghardinit.work/)
+* [Veeam Vanguard Craig Dalrymple](https://www.cragdoo.co.uk/)
 
 ## Who to follow on twitter
 * [Official Veeam Account](https://twitter.com/Veeam)
