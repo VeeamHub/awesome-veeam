@@ -30,6 +30,7 @@ A curated list of Veeam Technical Resources
 * [Official Veeam Account](https://twitter.com/Veeam)
 * [Official Kasten Account](https://twitter.com/kastenhq)
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
+* [Veeam Vanguard - Class of 2021] (https://twitter.com/i/lists/1366429274819944450?s=20)
 * [PM VBR Anton Gostev](https://twitter.com/gostev)
 * [PM AWS Niels Engelen](https://twitter.com/nielsengelen)
 
