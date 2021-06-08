@@ -35,4 +35,5 @@ A curated list of Veeam Technical Resources
 * 
 * ## Lists on twitter
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
+* [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
 
