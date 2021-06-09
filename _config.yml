@@ -1,3 +1,5 @@
 include:
   - README.md
 lsi: false
+kramdown:
+  input: GFM
