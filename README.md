@@ -30,13 +30,17 @@ A curated list of Veeam Technical Resources
 
 
 ## Blogs
+* [Veeam Vanguard / Michael Cade](https://vzilla.co.uk)
+  * [vZilla YouTube Channel](https://www.youtube.com/c/MichaelCade1)
+* [Veeam Vanguard / Anthony Spiteri](https://anthonyspiteri.net/)
+  * [Great things with Great Tech Podcast](https://www.youtube.com/channel/UCGi-zNAjdtmILLDt0xH-8jg)
 * [Veeam Vanguard / Markus Kraus](https://mycloudrevolution.com/en/)
 * [Veeam Vanguard / MVP Didier Van Hoye](https://blog.workinghardinit.work/)
 * [Veeam Vanguard / Dean Lewis](https://veducate.co.uk/)
 * [Veeam Vanguard / Ian Sanderson](http://www.snurf.co.uk/)
 * [Veeam Vanguard / Matt Crape](https://42u.ca)
 * [Veeam Vanguard / James Kilby](https://jameskilby.co.uk/)
-* [Veeam Vanguard / Craig from Scotland](https://www.cragdoo.co.uk/)
+* [Veeam Vanguard / Craig Dalrymple](https://www.cragdoo.co.uk/)
 * [Veeam Vanguard / Falko Banaszak](https://www.virtualhome.blog)
 * [Veeam Vanguard / Florian Raack](https://www.virtualhome.blog)
 * Jorge De La Cruz
@@ -54,6 +58,7 @@ A curated list of Veeam Technical Resources
 * [PM AWS / Niels Engelen](https://twitter.com/nielsengelen)
 * [Rick-a-tron](https://twitter.com/RickVanover)
 * [Global Technologist / Michael Cade](https://twitter.com/michaelcade1)
+* [Global Technologist / Anthony Spiteri](https://twitter.com/anthonyspiteri)
 * [Veeam SE / Jorge De La Cruz](https://twitter.com/jorgedlcruz)
 * [Community Manager](https://twitter.com/NikolaPejkova)
 ### Veeam Vanguards
@@ -63,7 +68,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Ian Sanderson](https://twitter.com/ian0x0r)
 * [Veeam Vanguard / Matt Crape](https://twitter.com/MattThatITGuy)
 * [Veeam Vanguard / James Kilby](https://twitter.com/jameskilbynet)
-* [Veeam Vanguard / Craig from Scotland](https://twitter.com/cragdoo)
+* [Veeam Vanguard / Craig Dalrymple](https://twitter.com/cragdoo)
 * [Veeam Vanguard / Falko Banaszak](https://twitter.com/Falko_Banaszak) 
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 * [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
