@@ -59,3 +59,6 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / James Kilby](https://twitter.com/jameskilbynet)
 * [Veeam Vanguard / Craig Darylepole](https://twitter.com/cragdoo)
 
+### Twitter lists
+* [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
+* [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
