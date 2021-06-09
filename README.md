@@ -13,6 +13,7 @@ A curated list of Veeam Technical Resources
 * [KB Articles](https://www.veeam.com/knowledge-base.html)
 * [Veeam Vanguard Program](https://www.veeam.com/vanguard.html)
 * [Veeam YouTube Channel](https://www.youtube.com/user/YouVeeam)
+* [Veeam User Groups](https://community.veeam.com/groups)
 
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
