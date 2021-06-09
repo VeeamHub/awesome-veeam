@@ -41,7 +41,7 @@ A curated list of Veeam Technical Resources
 * Jorge De La Cruz
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
-* [Veeam Vanguard / Chris Childerhose](https://just-virtualiztion.tech)
+* [Veeam Vanguard / Chris Childerhose](https://just-virtualization.tech/)
 
 ## Who to follow on twitter
 ### Veeam Official
