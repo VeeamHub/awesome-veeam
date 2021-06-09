@@ -17,6 +17,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Best Practices](https://veeambp.com/)
 * [Veeam VSE Calculator](https://vse.veeambp.com/)
 * [Veeam Cloud Connect Book](https://vccbook.io/)
+* [Veeam Ports Tool](https://www.veeambp.com/ports/index.html)
 
 ## Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories&q=grafana&type=&language=&sort=)
@@ -34,6 +35,8 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Matt Crape](https://42u.ca)
 * [Veeam Vanguard / James Kilby](https://jameskilby.co.uk/)
 * [Veeam Vanguard / Craig Darylepole](https://www.cragdoo.co.uk/)
+* [Veeam Vanguard / Falko Banaszak](https://www.virtualhome.blog)
+* [Veeam Vanguard / Florian Raack](https://www.virtualhome.blog)
 * Jorge De La Cruz
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
@@ -58,6 +61,8 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Matt Crape](https://twitter.com/MattThatITGuy)
 * [Veeam Vanguard / James Kilby](https://twitter.com/jameskilbynet)
 * [Veeam Vanguard / Craig Darylepole](https://twitter.com/cragdoo)
+* [Veeam Vanguard / Falko Banaszak](https://twitter.com/Falko_Banaszak) 
+* [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
