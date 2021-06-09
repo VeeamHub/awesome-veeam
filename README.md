@@ -33,4 +33,8 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
 * [PM VBR Anton Gostev](https://twitter.com/gostev)
 * [PM AWS Niels Engelen](https://twitter.com/nielsengelen)
+* 
+* ## Lists on twitter
+* [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
+* [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
 
