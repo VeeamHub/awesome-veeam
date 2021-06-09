@@ -3,3 +3,5 @@ include:
 lsi: false
 kramdown:
   input: GFM
+name: Awesome Veeam
+title: null
