@@ -11,6 +11,7 @@ A curated list of Veeam Technical Resources
 * [Community Site](https://community.veeam.com/)
 * [Support](https://my.veeam.com/#/open-case)
 * [KB Articles](https://www.veeam.com/knowledge-base.html)
+* [Veeam Vanguard Program](https://www.veeam.com/vanguard.html)
 
 ## Unofficial Links
 * [Veeam Best Practices](https://veeambp.com/)
@@ -18,23 +19,46 @@ A curated list of Veeam Technical Resources
 * [Veeam Cloud Connect Book](https://vccbook.io/)
 
 ## Interesting tools outside VeeamHub
-* [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories)
+* [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories&q=grafana&type=&language=&sort=)
 * [vSnowApp (ServiceNow Integration)](https://veeambp.com/vsnow.html)
 * [Repo Manager](https://github.com/tdewin/veeamhubrepo)
+* [Building a Veeam Lab – a recommended architecture](https://veducate.co.uk/building-a-veeam-lab-architecture/)
+* [Building a Veeam Lab – Testing Scenarios](https://veducate.co.uk/building-a-veeam-lab-testing-scenarios)
+
 
 ## Blogs
-* [Veeam Vanguard Markus Kraus](https://mycloudrevolution.com/en/)
+* [Veeam Vanguard / Markus Kraus](https://mycloudrevolution.com/en/)
 * [Veeam Vanguard / MVP Didier Van Hoye](https://blog.workinghardinit.work/)
-* [Veeam Vanguard Craig Dalrymple](https://www.cragdoo.co.uk/)
+* [Veeam Vanguard / Dean Lewis](https://veducate.co.uk/)
+* [Veeam Vanguard / Ian Sanderson](http://www.snurf.co.uk/)
+* [Veeam Vanguard / Matt Crape](https://42u.ca)
+* [Veeam Vanguard / James Kilby](https://jameskilby.co.uk/)
+* [Veeam Vanguard / Craig Darylepole](https://www.cragdoo.co.uk/)
+* Jorge De La Cruz
+  * [Spanish Blog](https://www.jorgedelacruz.es/)
+  * [English Blog](https://jorgedelacruz.uk/)
 
-## Who to follow on Twitter
+## Who to follow on twitter
+### Veeam Official
 * [Official Veeam Account](https://twitter.com/Veeam)
 * [Official Kasten Account](https://twitter.com/kastenhq)
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
-* [PM VBR Anton Gostev](https://twitter.com/gostev)
-* [PM AWS Niels Engelen](https://twitter.com/nielsengelen)
+### Veeam Employees
+* [PM VBR / Anton Gostev](https://twitter.com/gostev)
+* [PM AWS / Niels Engelen](https://twitter.com/nielsengelen)
+* [Rick-a-tron](https://twitter.com/RickVanover)
+* [Global Technologist / Michael Cade](https://twitter.com/michaelcade1)
+* [Veeam SE / Jorge De La Cruz](https://twitter.com/jorgedlcruz)
+* [Community Manager](https://twitter.com/NikolaPejkova)
+### Veeam Vanguards
+* [Veeam Vanguard / Markus Kraus](https://twitter.com/vMarkus_K)
+* [Veeam Vanguard / MVP Didier Van Hoye](https://twitter.com/WorkingHardInIT)
+* [Veeam Vanguard / Dean Lewis](https://twitter.com/saintdle)
+* [Veeam Vanguard / Ian Sanderson](https://twitter.com/ian0x0r)
+* [Veeam Vanguard / Matt Crape](https://twitter.com/MattThatITGuy)
+* [Veeam Vanguard / James Kilby](https://twitter.com/jameskilbynet)
+* [Veeam Vanguard / Craig Darylepole](https://twitter.com/cragdoo)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
 * [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
-
