@@ -27,14 +27,14 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / MVP Didier Van Hoye](https://blog.workinghardinit.work/)
 * [Veeam Vanguard Craig Dalrymple](https://www.cragdoo.co.uk/)
 
-## Who to follow on twitter
+## Who to follow on Twitter
 * [Official Veeam Account](https://twitter.com/Veeam)
 * [Official Kasten Account](https://twitter.com/kastenhq)
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
 * [PM VBR Anton Gostev](https://twitter.com/gostev)
 * [PM AWS Niels Engelen](https://twitter.com/nielsengelen)
-* 
-* ## Lists on twitter
+
+### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
 * [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
 
