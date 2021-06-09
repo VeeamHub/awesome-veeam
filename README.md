@@ -40,6 +40,7 @@ A curated list of Veeam Technical Resources
 * Jorge De La Cruz
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
+* [Veeam Vanguard / Chris Childerhose](https://just-virtualiztion.tech)
 
 ## Who to follow on twitter
 ### Veeam Official
@@ -63,6 +64,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Craig Darylepole](https://twitter.com/cragdoo)
 * [Veeam Vanguard / Falko Banaszak](https://twitter.com/Falko_Banaszak) 
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
+* [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
