@@ -5,6 +5,7 @@ A curated list of Veeam Technical Resources
 ## Official Links
 * [Veeam.com Downloads](https://www.veeam.com/downloads.html)
 * [Veeam.com Documentation](https://www.veeam.com/documentation-guides-datasheets.html)
+* [Veeam.com Veeam ONE List of reports with samples](https://helpcenter.veeam.com/docs/one/reporter/predefined_reports.html?ver=110)
 * [Kasten Documentation](https://docs.kasten.io/latest/)
 * [Office365 Calculator](https://calculator.veeam.com/vbo)
 * [Community Forums](https://forums.veeam.com/)
