@@ -30,7 +30,6 @@ A curated list of Veeam Technical Resources
 * [Building a Veeam Lab – a recommended architecture](https://veducate.co.uk/building-a-veeam-lab-architecture/)
 * [Building a Veeam Lab – Testing Scenarios](https://veducate.co.uk/building-a-veeam-lab-testing-scenarios)
 
-
 ## Blogs
 * [Veeam Vanguard / Michael Cade](https://vzilla.co.uk)
   * [vZilla YouTube Channel](https://www.youtube.com/c/MichaelCade1)
@@ -52,10 +51,12 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Wolfgang Taitl](https://vnote42.net/)
 
 ## Who to follow on twitter
+
 ### Veeam Official
 * [Official Veeam Account](https://twitter.com/Veeam)
 * [Official Kasten Account](https://twitter.com/kastenhq)
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
+
 ### Veeam Employees
 * [PM VBR / Anton Gostev](https://twitter.com/gostev)
 * [PM AWS / Niels Engelen](https://twitter.com/nielsengelen)
@@ -64,6 +65,7 @@ A curated list of Veeam Technical Resources
 * [Global Technologist / Anthony Spiteri](https://twitter.com/anthonyspiteri)
 * [Veeam SE / Jorge De La Cruz](https://twitter.com/jorgedlcruz)
 * [Community Manager](https://twitter.com/NikolaPejkova)
+
 ### Veeam Vanguards
 * [Veeam Vanguard / Markus Kraus](https://twitter.com/vMarkus_K)
 * [Veeam Vanguard / MVP Didier Van Hoye](https://twitter.com/WorkingHardInIT)
