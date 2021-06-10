@@ -20,6 +20,8 @@ A curated list of Veeam Technical Resources
 * [Veeam VSE Calculator](https://vse.veeambp.com/)
 * [Veeam Cloud Connect Book](https://vccbook.io/)
 * [Veeam Ports Tool](https://www.veeambp.com/ports/index.html)
+* [Veeam Restore Point Simulator](https://rps.dewin.me/)
+* [Veeam Restore Point Calculator (experimental)](https://rps.dewin.me/rpc)
 
 ## Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories&q=grafana&type=&language=&sort=)
@@ -47,6 +49,7 @@ A curated list of Veeam Technical Resources
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
 * [Veeam Vanguard / Chris Childerhose](https://just-virtualization.tech/)
+* [Veeam Vanguard / Wolfgang Taitl](https://vnote42.net/)
 
 ## Who to follow on twitter
 ### Veeam Official
@@ -72,9 +75,10 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Falko Banaszak](https://twitter.com/Falko_Banaszak) 
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 * [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
+* [Veeam Vanguard / Wolfgang Taitl](https://twitter.com/vNote42)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
 * [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
+* [2021 Veeam Legends](https://twitter.com/i/lists/1373945984779173889)
 
-![image](https://user-images.githubusercontent.com/22192242/121380373-b82b5380-c93c-11eb-8ba3-627e218c761c.png)
