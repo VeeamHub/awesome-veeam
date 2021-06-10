@@ -21,6 +21,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Cloud Connect Book](https://vccbook.io/)
 * [Veeam Ports Tool](https://www.veeambp.com/ports/index.html)
 * [Veeam Restore Point Simulator](https://rps.dewin.me/)
+* [Veeam Restore Point Calculator (experimental)](https://rps.dewin.me/rpc)
 
 ## Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories&q=grafana&type=&language=&sort=)
