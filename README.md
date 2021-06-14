@@ -24,17 +24,17 @@ A curated list of Veeam Technical Resources
 * [Veeam Restore Point Simulator](https://rps.dewin.me/)
 * [Veeam Restore Point Calculator (experimental)](https://rps.dewin.me/rpc)
 
-## Interesting tools outside VeeamHub
+## ☸ Interesting tools outside VeeamHub
 * [Grafana Dashboards for Veeam](https://github.com/jorgedlcruz?tab=repositories&q=grafana&type=&language=&sort=)
 * [vSnowApp (ServiceNow Integration)](https://veeambp.com/vsnow.html)
 * [Repo Manager](https://github.com/tdewin/veeamhubrepo)
 * [Building a Veeam Lab – a recommended architecture](https://veducate.co.uk/building-a-veeam-lab-architecture/)
 * [Building a Veeam Lab – Testing Scenarios](https://veducate.co.uk/building-a-veeam-lab-testing-scenarios)
 
-## Blogs
-* [Veeam Vanguard / Michael Cade](https://vzilla.co.uk)
+## ✍️ Blogs
+* [Veeam Employee / Michael Cade](https://vzilla.co.uk)
   * [vZilla YouTube Channel](https://www.youtube.com/c/MichaelCade1)
-* [Veeam Vanguard / Anthony Spiteri](https://anthonyspiteri.net/)
+* [Veeam Employee / Anthony Spiteri](https://anthonyspiteri.net/)
   * [Great things with Great Tech Podcast](https://www.youtube.com/channel/UCGi-zNAjdtmILLDt0xH-8jg)
 * [Veeam Vanguard / Markus Kraus](https://mycloudrevolution.com/en/)
 * [Veeam Vanguard / MVP Didier Van Hoye](https://blog.workinghardinit.work/)
@@ -51,7 +51,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Chris Childerhose](https://just-virtualization.tech/)
 * [Veeam Vanguard / Wolfgang Taitl](https://vnote42.net/)
 
-## Who to follow on twitter
+## ![image](https://user-images.githubusercontent.com/22192242/121868000-69910700-ccf8-11eb-99bb-57d91d2b2490.png) Who to follow on twitter
 
 ### Veeam Official
 * [Official Veeam Account](https://twitter.com/Veeam)
@@ -59,13 +59,16 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard](https://twitter.com/VeeamVanguard)
 
 ### Veeam Employees
+* [CTO / Danny Allen](https://twitter.com/dannyallan5)
 * [PM VBR / Anton Gostev](https://twitter.com/gostev)
 * [PM AWS / Niels Engelen](https://twitter.com/nielsengelen)
-* [Rick-a-tron](https://twitter.com/RickVanover)
+* [Rick-a-tron / Director, Product Strategy / Rick Vanover](https://twitter.com/RickVanover)
 * [Global Technologist / Michael Cade](https://twitter.com/michaelcade1)
 * [Global Technologist / Anthony Spiteri](https://twitter.com/anthonyspiteri)
+* [Global Technologist / Melissa Palmer](https://twitter.com/vmiss33)
+* [Technical Analyst / DK](https://twitter.com/_vmdk)
 * [Veeam SE / Jorge De La Cruz](https://twitter.com/jorgedlcruz)
-* [Community Manager](https://twitter.com/NikolaPejkova)
+* [Community Manager / Nikola Pejkova](https://twitter.com/NikolaPejkova)
 
 ### Veeam Vanguards
 * [Veeam Vanguard / Markus Kraus](https://twitter.com/vMarkus_K)
