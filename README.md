@@ -51,7 +51,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Chris Childerhose](https://just-virtualization.tech/)
 * [Veeam Vanguard / Wolfgang Taitl](https://vnote42.net/)
 
-## ![image](https://user-images.githubusercontent.com/22192242/121868000-69910700-ccf8-11eb-99bb-57d91d2b2490.png) Who to follow on twitter
+## Who to follow on twitter
 
 ### Veeam Official
 * [Official Veeam Account](https://twitter.com/Veeam)
