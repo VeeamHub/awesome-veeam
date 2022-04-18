@@ -45,6 +45,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Craig Dalrymple](https://www.cragdoo.co.uk/)
 * [Veeam Vanguard / Falko Banaszak](https://www.virtualhome.blog)
 * [Veeam Vanguard / Florian Raack](https://www.virtualhome.blog)
+* [Veeam Vanguard / Jim Jones](https://koolaid.info)
 * Jorge De La Cruz
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
@@ -82,9 +83,11 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 * [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
 * [Veeam Vanguard / Wolfgang Taitl](https://twitter.com/vNote42)
+* [Veeam Vanguard / Jim Jones(https://twitter.com/k00laidIT)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
 * [2021 Veeam Vanguards](https://twitter.com/i/lists/1366429274819944450)
+* [2022 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
 * [2021 Veeam Legends](https://twitter.com/i/lists/1373945984779173889)
 
