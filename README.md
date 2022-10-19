@@ -46,6 +46,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Falko Banaszak](https://www.virtualhome.blog)
 * [Veeam Vanguard / Florian Raack](https://www.virtualhome.blog)
 * [Veeam Vanguard / Jim Jones](https://koolaid.info)
+* [Veeam Vanguard / Eugene Elizarov](https://blog.korphome.ru)
 * Jorge De La Cruz
   * [Spanish Blog](https://www.jorgedelacruz.es/)
   * [English Blog](https://jorgedelacruz.uk/)
