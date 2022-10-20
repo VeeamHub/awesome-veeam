@@ -84,7 +84,7 @@ A curated list of Veeam Technical Resources
 * [Veeam Vanguard / Florian Raack](https://twitter.com/vfraack)
 * [Veeam Vanguard / Chris Childerhose](https://twitter.com/cchilderhose)
 * [Veeam Vanguard / Wolfgang Taitl](https://twitter.com/vNote42)
-* [Veeam Vanguard / Jim Jones(https://twitter.com/k00laidIT)
+* [Veeam Vanguard / Jim Jones](https://twitter.com/k00laidIT)
 
 ### Twitter lists
 * [2020 Veeam Vanguards](https://twitter.com/i/lists/1260530626358321153)
